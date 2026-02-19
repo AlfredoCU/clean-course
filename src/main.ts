@@ -8,6 +8,12 @@ import "./clean-code/07-tarea";
 import "./code-smells/01-singleton";
 import "./code-smells/02-high-coupling";
 import "./code-smells/02-low-coupling";
+import "./solid/01-srp";
+// import "./solid/02-open-close-a";
+// import "./solid/02-open-close-b";
+import "./solid/03-liskov-a";
+import "./solid/03-liskov-b";
+import "./solid/05-dependency-a";
 
 const app = document.querySelector<HTMLDivElement>("#app")!;
 
